@@ -15,5 +15,17 @@
 [01 机器学习](https://github.com/YukBrandes/maching-learning/blob/main/01%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.ipynb)
 
 [02 实战案例](https://github.com/YukBrandes/hiddenInData/blob/main/02%20%E5%AE%9E%E6%88%98%E6%A1%88%E4%BE%8B.ipynb)
+
+[03 监督学习]()
+
 # 联系方式
 @ [Yuk](https://github.com/YukBrandes)
+
+# 参考资料
+[写给人类的机器学习](https://www.bookstack.cn/read/ml-for-humans-zh/README.md)
+
+[机器学习实战](https://www.bookstack.cn/books/apachecn-MachineLearning)
+
+[Sklearn 与 TensorFlow 机器学习实用指南](https://www.bookstack.cn/books/hands_on_Ml_with_Sklearn_and_TF)
+
+[机器学习训练秘籍](https://www.bookstack.cn/read/machine-learning-yearning-cn/2671e956963f2153.md)
