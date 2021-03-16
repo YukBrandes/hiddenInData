@@ -16,7 +16,7 @@
 
 [02 实战案例](https://github.com/YukBrandes/hiddenInData/blob/main/02%20%E5%AE%9E%E6%88%98%E6%A1%88%E4%BE%8B.ipynb)
 
-[03 监督学习]()
+[03 监督学习：数学原理](https://github.com/YukBrandes/hiddenInData/blob/main/03%20%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%EF%BC%9A%E6%95%B0%E5%AD%A6%E5%8E%9F%E7%90%86.ipynb)
 
 # 联系方式
 @ [Yuk](https://github.com/YukBrandes)
