@@ -25,9 +25,13 @@
 
 # 参考资料
 [写给人类的机器学习](https://www.bookstack.cn/read/ml-for-humans-zh/README.md)
-
 [机器学习实战](https://www.bookstack.cn/books/apachecn-MachineLearning)
-
-[Sklearn 与 TensorFlow 机器学习实用指南](https://www.bookstack.cn/books/hands_on_Ml_with_Sklearn_and_TF)
-
 [机器学习训练秘籍](https://www.bookstack.cn/read/machine-learning-yearning-cn/2671e956963f2153.md)
+[Sklearn 与 TensorFlow 机器学习实用指南](https://www.bookstack.cn/books/hands_on_Ml_with_Sklearn_and_TF)
+[刘建平Pinard的博客配套代码](https://github.com/ljpzzz/machinelearning#2)
+[极大似然估计与最大后验概率估计](https://zhuanlan.zhihu.com/p/40024110)
+[理解朴素贝叶斯分类的拉普拉斯平滑](https://zhuanlan.zhihu.com/p/26329951)
+[信息论](https://zhuanlan.zhihu.com/p/36385989)
+[如何通俗的解释交叉熵与相对熵](https://www.zhihu.com/question/41252833)
+[最小二乘法](https://zhuanlan.zhihu.com/p/38128785)
+[波士顿房价预测任务](https://www.paddlepaddle.org.cn/tutorials/projectdetail/1515038#anchor-13)
